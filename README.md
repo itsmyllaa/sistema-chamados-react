@@ -35,6 +35,9 @@ Página de clientes para criacão de clientes:
 
 Página de configuracões:
 
+![Página configuracoes ](https://user-images.githubusercontent.com/60410635/208258606-866b17ed-8f96-47ea-aa18-b08d5202c292.png)
+
+
 
 
 
